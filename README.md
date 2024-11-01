@@ -1,1 +1,1 @@
-# TextToSpeechTunisianDialect
+Text-to-Speech (TTS) project focuses on developing a model using the VITS architectures to generate natural-sounding Arabic speech, specifically in the Tunisian dialect. This project involves using a custom dataset, which we curated from podcast audio clips that were segmented into 10-second samples and transcribed.
